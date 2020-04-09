@@ -1,6 +1,5 @@
 * {
-	width: 100%;
-	margin: 0;
+  margin: 0;
 	padding: 0;
 }
 body
@@ -14,6 +13,7 @@ ul {
   padding: 0;
   overflow: hidden;
   background-color: #333;
+  width: 100%;
 }
 
 li {
