@@ -36,4 +36,12 @@ li a:hover {
 {
   padding: 50px;
   margin: 50px;
+  background-color: white;
+  color: black;
+}
+.header
+{
+  font-size: 20px;
+  color: red;
+  padding: 10px;
 }
